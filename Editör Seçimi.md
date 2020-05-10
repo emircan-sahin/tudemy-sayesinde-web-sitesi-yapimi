@@ -1,4 +1,5 @@
-**HTML Editör Seçimi**
+
+## **HTML Editör Seçimi**
 
 HTML kodları yazabilmemiz için bir editöre ihtiyacımız var.
 
@@ -9,7 +10,7 @@ HTML kodları yazabilmemiz için bir editöre ihtiyacımız var.
 
 Benim önerim **Visual Studio Code** kullanmanız.
 
-**Editörün İndirilmesi**
+## **Editörün İndirilmesi**
 
 Ben **Visual Studio Code** nasıl indirilir onu öğreteceğim.
 
