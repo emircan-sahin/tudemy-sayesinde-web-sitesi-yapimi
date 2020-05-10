@@ -1,0 +1,37 @@
+
+### HTML BAŞLANGIÇ
+
+Bir önceki ders de kod yazma editörünü indirmeyi öğrenmiştiniz. Bu ders de ise kod nasıl yazılır onu öğreneceksiniz.
+
+Kod yazmak için bir html dosyası oluşturmamız gerekiyor. Bunun için masaüstünde veya klasörünüzde bir yere sağ  tıklayın ve "Yeni" içerisinden "Metin Belgesi" oluşturunuz. Dosya ismini index  türünü ise **.html** yapınız.
+
+**Not:** Dosya türünü göremiyorsanız "Başlat > Dosya Gezgini Seçenekleri" açınız. Gelen ekrandan "Görünüm" kısmına tıklayınız. Aşağıda "Gelişmiş Ayarlar" kısmında "Bilinen dosya türleri için uzantıları gizle" bunu "tiklenmemiş" hale yani "kapalı" hale getiriniz.
+
+Artık dosya türünü görüyorsunuz ve dosya türünü **.html** yapınız.
+
+**index.html** olarak bir metin belgesi oluşmuş olacak. Bu metin dosyasına sağ tıklayın ve "Open with Code" a tıklayın. Eğer sizde bu gözükmüyorsa "Birlikte Seç" den Visual Studio Code'yi seçebilirsiniz.
+
+
+### HTML KODU NASIL YAZILIR?
+HTML kodu yazmak oldukça basit. Şimdi sizlere bunu göstereceğim. HTML'de etiket olayı vardır. İlk olarak <html> etiketini açıp içerisine <body> yazıp bunları kapatıyoruz. <body></html> gibi.
+Bir etiketi açın ve kapatın, parantez gibi.
+Şimdi sizlere örnek göstereceğim.
+
+    <html>
+	    <body>
+	    
+	    </body>
+    <html>
+
+Şimdi sitemiz oluşmuş oldu ve artık içerisine içerik ekleyebiliriz.
+Başlangıç olarak içerisine başlık ekleyelim.
+
+    <html>
+	    <body>
+		    <h1>Merhaba.</h1>
+	    </body>
+    </html>
+
+Bunu yazarak bir başlık eklemiş oluyoruz. Dosyamızı kaydedilim.
+
+Şimdi bu yazdığımız kodu bir çalıştıralım. Bunun için **index.html** dosyasıma sağ tıklayıp birlikte aç ile kullandığımız interrnet tarayıcısını seçiyoruz. Ben Google Chrome seçiyorum.
